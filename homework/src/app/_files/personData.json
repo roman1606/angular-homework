@@ -1,0 +1,35 @@
+[
+    {
+        "id" : "1",
+        "firstName" : "Roman", 
+        "lastName" : "Tsibulsky",
+        "age" : "30",
+        "hobbies" : "guitar",
+        "avtarUrl" : ""
+    },
+    {
+        "id" : "2",
+        "firstName" : "Tom", 
+        "lastName" : "Cat",
+        "age" : "18",
+        "hobbies" : "movies",
+        "avatarUrl" : ""
+    },
+    {
+        "id" : "3",
+        "firstName" : "Sarah", 
+        "lastName" : "Smith",
+        "age" : "22",
+        "hobbies" : "Travel",
+        "avatarUrl" : "https://thumbs.dreamstime.com/b/ready-summer-vacation-travel-background-d-rendering-114574299.jpg"
+    },
+    {
+        "id" : "4",
+        "firstName" : "John", 
+        "lastName" : "Smith",
+        "age" : "24",
+        "hobbies" : "games",
+        "avatarUrl" : null
+    }
+  
+]
